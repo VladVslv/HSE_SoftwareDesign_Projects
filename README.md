@@ -3,4 +3,4 @@
 # Список домашних заданий
 1. Ветка Reversi - ДЗ №1.
 2. Ветка Library - мини-ДЗ.
-3. Ветка FileDependecnies - ДЗ №2.
+3. Ветка FileDependencies - ДЗ №2.
